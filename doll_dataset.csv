@@ -1,0 +1,111 @@
+Society,SCCS.Name,Region,Subsistence,Latitude,Longitude,Fertility,Spirits,Punishment,Protection,Sex.Play,Sex.Magic,Sex.Total,Play,Magic,Complexity,Impotence,Sex.Frequency,Explanation.of.Barrenness,Sterility.Causes.Divorce,Revenge,Gossip,tree_name,Assault,Revenge.Norms
+Kuna,Cuna_Tule,Central America,NA,9.16,-78.31,0,1,0,1,NA,0,0,0,1,23,NA,4,NA,0,0,4,Cuna_Tule,NA,NA
+Miskito,Miskito,Central America,NA,15.16,-84.29,0,0,1,1,NA,0,0,0,1,17,1,NA,NA,3,0,2,Miskito,1,5
+Eastern Pomo,Pomo_Eastern,North America,NA,39,-123,1,0,1,0,1,0,1,1,1,12,NA,NA,NA,3,1,3.5,MISSING_Pomo_Eastern,6,2
+Havasupai,Havasupai,North America,NA,35.83,-112.17,0,0,0,0,1,NA,1,1,0,10,NA,2,1,0,1,4,Havasupai,NA,2
+Chachi,Cayapa,South America,NA,1,-79,0,0,0,0,0,NA,0,1,0,14,NA,NA,NA,NA,0,2,Cayapa,1,NA
+Canela,Ramcocamerca Timbira,South America,NA,6.5,-46,0,0,0,0,1,NA,1,1,0,13,NA,2,NA,4,1,4,MISSING_Timbira,3,3
+Xavante,Shavante,South America,NA,13.5,-51.5,0,0,0,0,1,NA,1,1,0,5,0,1,NA,NA,1,NA,Shavante,NA,5
+Warao,Warrau,South America,NA,9.08,-62,0,1,1,0,1,-1,0,1,1,6,NA,NA,NA,NA,1,3,Warrau,NA,NA
+Huichol,Huichol,Central America,NA,22,-105,0,1,0,0,1,0,0,1,1,18,NA,2,NA,0,NA,NA,Huichol,5,NA
+Aztec,Aztec,Central America,NA,19,-99.17,0,0,0,0,1,NA,1,1,0,34,NA,NA,NA,4,1,4,Aztec,NA,2
+O'oodham,Papago,North America,NA,32,-112,0,1,1,1,0,-1,0,1,1,17,NA,NA,NA,0,1,3,Papago,NA,NA
+Northern Paiute,Paiute_North,North America,NA,43.5,-119,0,0,0,0,1,NA,1,1,0,4,NA,2,NA,0,1,4,Paiute_North,8,NA
+Comanche,Comanche,North America,NA,34,-101.5,0,0,0,0,1,NA,1,1,0,7,NA,NA,NA,0,1,4,Comanche,NA,5
+Popoluca,Popoluca,Central America,NA,18.25,-94.83,0,0,0,0,0,NA,0,1,0,19,NA,NA,NA,NA,NA,NA,Popoluca,NA,NA
+Amahuaca,Amahuaca,South America,NA,10.33,-72.25,1,0,0,0,1,1,1,1,1,8,NA,NA,NA,0,1,NA,Amahuaca,NA,NA
+Enxet and Enthet,Lengua,South America,NA,-23,-58.5,0,0,0,0,0,NA,0,1,0,8,NA,NA,NA,3,1,NA,Lengua,5,NA
+Yokuts,Yokuts_Lake,North America,NA,35,-119.5,0,1,0,0,NA,1,1,0,1,11,NA,NA,NA,4,1,3,Yokuts_Lake,9,1
+Klamath,Klamath,North America,NA,42.63,-121.67,0,0,0,0,1,NA,1,1,0,4,1,NA,1,NA,1,4,MISSING_Klamath,1,NA
+Zuni,Zuni,North America,NA,35.67,-108.75,1,0,0,1,1,1,1,1,1,25,NA,NA,NA,0,1,3,Zuni,7,1
+Siriono,Siriono,South America,NA,-14.5,-63.5,0,0,0,0,NA,NA,NA,0,0,4,NA,NA,NA,0,1,5,Siriono,5,NA
+Guarani,Cayua,South America,NA,23.5,-55,0,0,0,0,0,NA,0,1,0,6,NA,NA,NA,NA,0,0,Cayua,2,NA
+Goajiro,Goajiro,South America,NA,11.92,-71.75,0,0,0,0,1,NA,1,1,0,10,NA,NA,NA,0,1,4,Goajiro,1,4
+Island Carib,Callinago,Central America,NA,15.41,-61.27,0,1,0,1,0,0,0,1,1,16,NA,NA,NA,0,NA,NA,Callinago,3,NA
+Jivaro,Jivaro,South America,NA,-3,-78,0,0,0,0,NA,NA,NA,0,0,8,NA,2,NA,0,1,3.5,Jivaro,NA,4
+Tehuelche,Tehuelche,South America,NA,-40.5,-68,0,0,0,0,1,NA,1,1,0,6,NA,NA,NA,NA,1,2,Tehuelche,6,NA
+Barama Carib,Carib_Barama,Central America,NA,7.42,-60.17,1,0,0,0,1,1,1,1,1,8,NA,NA,NA,0,0,4,Carib_Barama,NA,NA
+Tukano,Cubeo_Tucan,South America,NA,1.25,-70.5,0,0,0,0,NA,NA,NA,0,0,10,1,NA,NA,NA,1,3,Cubeo_Tucano,8,2
+Hidatsa,Hidatsa,North America,NA,47,-101,0,0,0,0,1,NA,1,1,0,14,NA,NA,NA,0,1,NA,Hidatsa,3,5
+Omaha,Omaha,North America,NA,41.43,-96.5,0,0,0,0,1,NA,1,1,0,15,NA,1,NA,0,1,4,MISSING_Omaha,8,3
+Huron/Wendat,Huron,North America,NA,44.5,-79,0,0,0,1,NA,-1,-1,0,1,18,NA,NA,NA,0,NA,NA,MISSING_Huron,1,NA
+Aymara,Aymara,South America,NA,16,-65.75,1,1,0,1,1,0,0,1,1,24,NA,NA,NA,4,1,5,Aymara,1,NA
+Mapuche,Mapuche,South America,NA,-38.5,-72.58,0,0,0,0,1,NA,1,1,0,23,NA,3,NA,0,1,3,Mapuche,1,NA
+Yahgan,Yahgan,South America,NA,-55.5,-69.5,0,0,0,0,1,NA,1,1,0,1,NA,NA,0,0,1,3,Yahgan,1,5
+Innu,Montagnais,North America,NA,50,-74,0,0,0,0,1,NA,1,1,0,5,NA,NA,NA,2,1,4,Montagnais,1,5
+Gros Ventre,Gros Ventre,North America,NA,48,-108,1,0,0,0,NA,0,0,0,1,8,NA,NA,NA,0,1,3,Gros_Ventre,NA,NA
+Ojibwa,Saulteaux,North America,NA,52,-95.5,0,1,0,0,1,1,1,1,1,10,0,1,NA,NA,NA,3,Saulteaux,5,NA
+Yurok,Yurok,North America,NA,41.5,-124,0,0,0,0,1,NA,1,1,0,8,NA,2,NA,3,1,2,MISSING_Yurok,2,3
+Nuxalk,Bellacoola,North America,NA,52.33,-126.5,0,0,0,0,1,NA,1,1,0,12,NA,3,NA,2,1,2,Bellacoola,NA,2
+Kutenai,Kutenai,North America,NA,49,-116.67,0,1,0,0,1,-1,0,1,1,8,NA,4,NA,NA,1,NA,MISSING_Kutenai,NA,5
+Slavey,Slave,North America,NA,62,-122,0,0,0,0,1,NA,1,1,0,8,NA,NA,NA,NA,1,NA,Slave,9,NA
+Kaska,Kaska,North America,NA,60,-131,0,0,0,0,NA,NA,NA,0,0,4,NA,3,0,4,1,NA,Kaska,9,3
+Ingalik,Ingalik,North America,NA,62.5,-159.5,0,0,0,1,1,0,0,1,1,9,NA,NA,NA,0,1,NA,Ingalik,2,2
+Eastern Apache,Chiricahua,North America,NA,32,-109.5,0,0,0,0,1,NA,1,1,0,5,1,3,NA,2,1,4,Chiricahua,NA,NA
+Eyak,Eyak,North America,NA,60.5,-145,0,1,1,0,NA,-1,0,0,1,6,NA,2,NA,0,1,NA,Eyak,9,3
+Haida,Haida,North America,NA,54,-132.5,0,0,1,0,1,-1,0,1,1,13,NA,NA,NA,0,1,NA,Haida,NA,NA
+Aleut,Aleut,North America,NA,55,-162.85,0,0,0,0,1,NA,1,1,0,11,NA,NA,NA,4,1,3,Aleut,3,4
+Copper Inuit,Copper_Eskimo,North America,NA,68.72,-115.53,0,0,0,0,1,NA,1,1,0,6,NA,NA,NA,0,NA,0,Copper_Eskimo,5,NA
+Chuckchee,Chukchee,Asia,NA,66.5,179.6,1,0,0,0,1,1,1,1,1,8,NA,NA,NA,0,0,NA,Chukchee,NA,5
+Yukaghir,Yukaghir,Asia,NA,64.75,153.5,0,1,0,0,NA,0,0,0,1,7,NA,NA,2,2,1,3,Yukaghir,NA,NA
+Marquesans,Marquesans,Oceania,NA,-8.92,-140.17,0,1,0,0,NA,0,0,0,1,17,NA,NA,NA,0,1,4.5,Marquesans,1,NA
+Samoan,Western_Samoans,Oceania,NA,-13.94,-171.77,0,0,0,0,NA,NA,NA,0,0,18,NA,NA,NA,0,1,4,Western_Samoans,NA,NA
+Manus,Manus,Oceania,NA,-2.17,147.17,0,0,0,0,NA,NA,NA,0,0,16,NA,NA,1,3,1,3,Manus,NA,NA
+Yapese,Yapese,Oceania,NA,9.52,138.16,0,0,0,0,0,NA,0,1,0,22,NA,4,NA,0,1,3.5,Yapese,7,NA
+Trobrianders,Trobrianders,Oceania,NA,-8.54,151.01,0,0,0,0,NA,NA,NA,0,0,16,NA,2,NA,0,0,3,Trobrianders,NA,3
+Belau,Palauans,Oceania,NA,7.5,134.5,0,0,0,0,NA,NA,NA,0,0,19,NA,NA,NA,0,0,NA,Palauans,8,1
+Eastern Toraja,Toradja,Asia,NA,2,121,0,1,0,1,NA,0,0,0,1,18,NA,NA,NA,3,1,4,Toradja,NA,NA
+Malaya,Negri_Sembilan,Asia,NA,2.58,102.25,1,0,0,1,1,1,1,1,1,35,NA,NA,NA,NA,1,3,Negri_Sembilan,NA,NA
+Iban,Iban,Asia,NA,2,113,0,0,0,1,1,0,0,1,1,13,NA,2,NA,3,0,4,Iban,NA,NA
+Javanese,Javanese,Asia,NA,-7.7,112.22,0,1,1,1,1,0,0,1,1,39,NA,NA,NA,0,0,NA,Javanese,NA,NA
+Balinese,Balinese,Asia,NA,8.5,115.33,0,1,1,1,NA,0,0,0,1,38,NA,NA,1,2,0,4,Balinese,1,NA
+Cambodian,Khmer,Asia,NA,13,103.83,0,0,0,1,NA,0,0,0,1,36,NA,NA,NA,NA,0,NA,Khmer,1,NA
+Vietnamese,Vietnamese,Asia,NA,20.5,106.25,1,1,0,1,NA,0,0,0,1,37,NA,NA,NA,3,0,NA,Vietnamese,3,NA
+Nicobarese,Nicobarese,Asia,NA,7,93.75,0,1,0,0,NA,0,0,0,1,17,NA,NA,NA,3,0,NA,Nicobarese,3,NA
+Santal,Santal,Asia,NA,23.5,87.17,0,0,0,0,0,NA,0,1,0,21,NA,NA,NA,0,0,4,Santal,1,3
+Central Thai,Siamese,Asia,NA,14,100.85,0,1,0,1,NA,0,0,0,1,40,0,NA,NA,0,0,5,Siamese,3,NA
+Mara,Lakher,Asia,NA,22.33,93,0,0,0,0,1,NA,1,1,0,21,1,2,NA,1,NA,NA,Lakher,5,1
+Yi,Lolo,Asia,NA,27.5,103.5,0,1,1,0,NA,0,0,0,1,25,NA,NA,NA,NA,1,2,Lolo,NA,NA
+Okayama,Japanese,Asia,NA,34.67,133.67,0,0,0,0,1,NA,1,1,0,40,NA,NA,NA,4,0,4,Japanese,NA,NA
+Ainu,Ainu,Asia,NA,42.83,143,0,0,0,1,NA,0,0,0,1,7,NA,NA,NA,0,0,3.5,Ainu,4,1
+Korea,Koreans,Asia,NA,37.6,126.42,0,0,1,1,1,0,0,1,1,38,1,NA,NA,4,0,0,Koreans,3,NA
+Manchu,Manchu,Asia,NA,50,125,0,0,0,0,1,NA,1,1,0,26,NA,NA,NA,NA,1,5,Manchu,1,NA
+Nivkh,Gilyak,Asia,NA,53,142,0,1,1,0,NA,0,0,0,1,9,NA,NA,NA,0,1,0,Gilyak,NA,3
+Khalkha Mongols,Khalka_Mongols,Asia,NA,47.17,96.08,0,1,0,1,NA,0,0,0,1,22,NA,NA,NA,0,0,2,Khalka_Mongols,1,1
+Aranda,Aranda,Oceania,NA,24.25,133.5,0,0,0,0,0,NA,0,1,0,3,NA,NA,NA,0,1,3,Aranda,9,4
+Basques,Basques,Europe,NA,43.25,-1.67,0,0,0,0,1,NA,1,1,0,37,NA,NA,NA,NA,0,NA,Basques,NA,NA
+Haitians,Haitians,Central America,NA,18.83,-72.17,0,0,1,0,1,0,0,1,1,35,1,2,NA,0,0,5,Haitians,NA,1
+Imperial Rome,Romans,Europe,NA,41.67,13.5,0,1,0,1,1,1,1,1,1,39,NA,NA,NA,4,0,5,Romans,8,NA
+Irish,Irish,Europe,NA,53.5,-10,0,0,0,1,NA,1,1,0,1,37,NA,2,0,4,1,4,Irish,NA,NA
+Saramacca,Saramacca,South America,NA,3.5,-55.75,0,0,0,0,1,NA,1,1,0,16,1,NA,1,2,1,NA,Saramacca,9,2
+Russians,Russians,Europe,NA,52.67,41.33,0,1,0,0,1,0,0,1,1,38,NA,NA,NA,NA,0,2.5,Russians,1,NA
+Burusho,Burusho,Asia,NA,36.43,74.58,0,0,0,0,1,NA,1,1,0,23,NA,NA,NA,3,0,0,Burusho,6,NA
+Kurds,Kurd,Asia,NA,36.5,44.5,0,0,0,1,NA,0,0,0,1,33,NA,NA,NA,4,1,4,Kurd,5,5
+Fellahin,Egyptians,Africa,NA,30,31,1,0,0,1,1,1,1,1,1,37,1,1,NA,3,0,2,Egyptians,NA,3
+Amhara,Amhara,Africa,NA,12.5,37.75,0,1,0,0,0,0,0,1,1,32,1,NA,NA,NA,0,5,Amhara,9,5
+Abkhaz,Abkhaz,Europe,NA,43.13,40.77,0,0,0,1,NA,1,1,0,1,26,NA,NA,NA,2,0,0,Abkhaz,NA,NA
+Saami,Lapps,Europe,NA,53,142,0,0,0,0,1,NA,1,1,0,8,NA,2,NA,4,1,4,Lapps,3,NA
+Nenets,Yurak_Samoyed,Asia,NA,68,51.5,1,1,0,1,NA,1,1,0,1,8,NA,NA,NA,0,1,1.5,Yurak_Samoyed,NA,NA
+Gond,Gond,Asia,NA,20,81,0,0,1,0,NA,-1,-1,0,1,17,NA,2,1,NA,NA,NA,Gond,1,NA
+Konso,Konso,Africa,NA,5.25,37.5,0,1,0,0,NA,0,0,0,1,24,NA,4,NA,0,1,NA,Konso,NA,NA
+Somalia,Somali,Africa,NA,9,47.25,0,0,0,0,1,NA,1,1,0,18,NA,4,NA,1,NA,4,Somali,1,3
+Shilluk,Shilluk,Africa,NA,9.75,31.5,0,1,1,0,NA,1,1,0,1,22,0,2,NA,4,1,4,Shilluk,9,4
+Teda,Teda,Africa,NA,20.5,17.5,0,0,0,0,1,NA,1,1,0,11,NA,NA,NA,0,1,0,Teda,NA,NA
+Maasai,Masai,Africa,NA,3.5,36.75,0,0,0,0,1,NA,1,1,0,9,NA,NA,NA,4,0,5,Masai,5,NA
+Hadza,Hadza,Africa,NA,3.75,35.18,NA,NA,0,0,1,NA,1,1,1,0,NA,NA,1,0,NA,NA,Hadza,9,NA
+Nyakyusa and Ngonde,Nyakyusa,Africa,NA,9.5,34,0,0,0,0,1,NA,1,1,0,18,1,NA,NA,0,1,2,Nyakyusa,7,5
+Luguru,Luguru,Africa,NA,6.83,37.67,1,0,0,0,1,1,1,1,1,19,NA,NA,NA,1,1,NA,Luguru,NA,NA
+Ganda,Ganda,Africa,NA,0.33,32.5,0,1,0,0,0,0,0,1,1,27,NA,2,1,0,0,3,Ganda,NA,4
+Tsonga,Thonga,Africa,NA,25.83,32.33,0,1,0,0,1,0,0,1,1,20,1,2,1,4,0,3,Thonga,NA,1
+Lozi,Lozi,Africa,NA,16,23.5,0,1,0,1,NA,0,0,0,1,20,NA,NA,NA,4,0,3,Lozi,9,NA
+Ovimbundu,Mbundu,Africa,NA,12.25,16.5,1,1,0,1,1,0,0,1,1,22,NA,NA,NA,1,1,2,Mbundu,NA,NA
+Tiv,Tiv,Africa,NA,7.25,9,0,1,0,0,NA,0,0,0,1,19,1,1,NA,4,1,3,Tiv,NA,2
+Igbo,Ibo,Africa,NA,5.5,7.33,1,0,0,0,1,1,1,1,1,24,NA,NA,NA,0,1,5,Ibo,NA,NA
+Fon,Fon,Africa,NA,7.2,1.91,0,1,0,0,0,0,0,1,1,30,1,NA,1,NA,1,NA,Fon,1,1
+Akan,Ashanti,Africa,NA,7,-1.5,1,1,1,0,1,0,0,1,1,24,NA,NA,NA,2,0,3.5,Ashanti,2,NA
+Tallensi,Tallensi,Africa,NA,10.66,-0.57,0,0,0,0,1,NA,1,1,0,22,NA,4,NA,4,1,3.5,Tallensi,1,2
+Wolof,Wolof,Africa,NA,13.75,-15.33,0,0,0,0,1,NA,1,1,0,29,1,NA,1,2,0,4,Wolof,NA,NA
+Azande,Azande,Africa,NA,5.08,28.25,0,0,0,0,1,NA,1,1,0,21,1,2,NA,0,1,5,Azande,5,3
+Bambara,Bambara,Africa,NA,12.5,-7,0,1,0,0,NA,0,0,0,1,28,1,2,NA,0,0,2,Bambara,9,4
+Hausa,Hausa,Africa,NA,10.5,7.5,0,0,0,0,1,NA,1,1,0,33,1,NA,NA,3,0,4,Hausa,NA,NA
+Kung,Kung_Bushmen,Africa,NA,20,21,0,0,0,0,1,NA,1,1,0,2,NA,4,NA,3,0,5,Kung_Bushmen,NA,2
